@@ -15,3 +15,4 @@ router1.teamviewer.com
 whatsnew.teamviewer.com
 lu-lux-anx-r001.teamviewer.com
 amzn.to
+bing.com
