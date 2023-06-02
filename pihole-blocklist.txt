@@ -19,3 +19,5 @@ bing.com
 www.bing.com
 bing.de
 www.bing.de
+plex.tv
+meta.plex.tv
