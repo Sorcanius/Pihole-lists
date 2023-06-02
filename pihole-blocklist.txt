@@ -21,3 +21,5 @@ bing.de
 www.bing.de
 plex.tv
 meta.plex.tv
+app.plex.tv
+clients.plex.tv
