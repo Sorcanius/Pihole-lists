@@ -24,3 +24,4 @@ meta.plex.tv
 app.plex.tv
 clients.plex.tv
 analytics.plex.tv
+wpad.wolfinet
