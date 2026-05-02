@@ -1,3 +1,2 @@
-www.deref-web.de
-deref-web.de
+||deref-web.de^
 ||grower.ch^
