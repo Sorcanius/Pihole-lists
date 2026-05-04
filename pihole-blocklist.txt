@@ -6,7 +6,7 @@ de.prod.pdss.paladin.a2z.com
 ||example.org^
 ||wolfi.net^
 ||facebook.com^
-||teamviewer.com^
+#||teamviewer.com^
 ||amzn.to^
 ||bing.com^
 ||wpad.wolfinet^
