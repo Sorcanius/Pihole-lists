@@ -1,4 +1,3 @@
-||deref-web.de^
-||grower.ch^
 deref-web.de
 grower.ch
+voe.sx
