@@ -15,3 +15,12 @@ de.prod.pdss.paladin.a2z.com
 #app.plex.tv
 #clients.plex.tv
 #analytics.plex.tv
+
+#IllegalMovieStrems
+KKiste.eu
+
+#IllegalSeriesStrems
+s.to
+
+#IllegalAudiobooks
+audiobookbay.lu
