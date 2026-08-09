@@ -18,6 +18,7 @@ de.prod.pdss.paladin.a2z.com
 
 #IllegalMovieStrems
 KKiste.eu
+movie2k.ch
 
 #IllegalSeriesStrems
 s.to
@@ -25,3 +26,34 @@ serienstream.to
 
 #IllegalAudiobooks
 audiobookbay.lu
+
+
+
+bs.to
+burning-series.io
+burningseries.co
+burningseries.tw
+s.to
+serienstream.ch
+serienstream.to
+serien.to
+serien.sx
+serienstream.sx
+kinox.to
+kinos.to
+kinoz.to
+kinox.top
+kinoger.com
+kinoger.to
+filmpalast.to
+streamkiste.tv
+streamkiste.com
+kkiste.to
+vumoo.to
+putlocker.sb
+putlocker.pe
+putlocker.to
+putlocker-website.online
+123movies.net
+123moviesfree.net
+yts.mx
