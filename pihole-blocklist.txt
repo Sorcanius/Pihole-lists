@@ -21,6 +21,7 @@ KKiste.eu
 
 #IllegalSeriesStrems
 s.to
+serienstream.to
 
 #IllegalAudiobooks
 audiobookbay.lu
