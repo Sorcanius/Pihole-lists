@@ -2,3 +2,4 @@ deref-web.de
 grower.ch
 voe.sx
 mqtt.growatt.com
+openapi.growatt.com
