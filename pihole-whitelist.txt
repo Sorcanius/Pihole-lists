@@ -4,4 +4,5 @@ voe.sx
 mqtt.growatt.com
 openapi.growatt.com
 ryuovn.itch.io
-||baumwollseil.de^
+baumwollseil.de
+www.baumwollseil.de
