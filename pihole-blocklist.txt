@@ -17,7 +17,7 @@ de.prod.pdss.paladin.a2z.com
 #analytics.plex.tv
 ||invalid^
 ||cloudflare-dns.com^
-
+||samsungcloud.com^
 
 
 #IllegalMovieStrems
