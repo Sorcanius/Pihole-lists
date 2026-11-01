@@ -16,6 +16,9 @@ de.prod.pdss.paladin.a2z.com
 #clients.plex.tv
 #analytics.plex.tv
 ||invalid^
+||cloudflare-dns.com^
+
+
 
 #IllegalMovieStrems
 KKiste.eu
