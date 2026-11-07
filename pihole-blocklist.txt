@@ -6,15 +6,10 @@ de.prod.pdss.paladin.a2z.com
 ||example.org^
 ||wolfi.net^
 ||facebook.com^
-#||teamviewer.com^
 ||amzn.to^
 ||bing.com^
 ||wpad.wolfinet^
-#plex.tv
-#meta.plex.tv
-#app.plex.tv
-#clients.plex.tv
-#analytics.plex.tv
+||plex.tv^
 ||invalid^
 ||cloudflare-dns.com^
 ||samsungcloud.com^
