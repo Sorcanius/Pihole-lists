@@ -13,7 +13,7 @@ de.prod.pdss.paladin.a2z.com
 ||invalid^
 ||cloudflare-dns.com^
 ||samsungcloud.com^
-
+||zip^
 
 #IllegalMovieStrems
 KKiste.eu
